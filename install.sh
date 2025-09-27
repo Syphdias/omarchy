@@ -11,7 +11,6 @@ export PATH="$OMARCHY_PATH/bin:$PATH"
 
 # Install
 source "$OMARCHY_INSTALL/helpers/all.sh"
-source "$OMARCHY_INSTALL/preflight/all.sh"
 source "$OMARCHY_INSTALL/packaging/all.sh"
 source "$OMARCHY_INSTALL/config/all.sh"
 source "$OMARCHY_INSTALL/post-install/all.sh"
