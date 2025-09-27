@@ -1,10 +1,9 @@
-# Omarchy
+# My "Omarchy"
 
-Turn a fresh Arch installation into a fully-configured, beautiful, and modern web development system based on Hyprland by running a single command. That's the one-line pitch for Omarchy (like it was for Omakub). No need to write bespoke configs for every essential tool just to get started or to be up on all the latest command-line tools. Omarchy is an opinionated take on what Linux can be at its best.
-
-Read more at [omarchy.org](https://omarchy.org).
+This is a fork of [Omarchy](https://github.com/basecamp/omarchy) where I strip
+everything out I don't need or use (e.g. Hyperland) and use it in [my
+dotfiles](https://github.com/Syphdias/dotfiles).
 
 ## License
 
 Omarchy is released under the [MIT License](https://opensource.org/licenses/MIT).
-
