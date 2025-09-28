@@ -28,7 +28,9 @@ omarchy-restart-waybar
 omarchy-restart-swayosd
 hyprctl reload
 pkill -SIGUSR2 btop
-makoctl reload
+
+# instead of mako
+swaync-client -rs
 
 # Change gnome, browser, vscode themes
 omarchy-theme-set-terminal
